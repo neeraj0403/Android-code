@@ -1,1 +1,2 @@
-All the Android codes are available here of small project
+All the Android codes Are available here of practice and small projects
+and can be reffered for practice
