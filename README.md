@@ -1,6 +1,6 @@
 All the Android codes are available here of small project
 <br/>
-codes written during 
+codes written during  practice time
 
 
 
